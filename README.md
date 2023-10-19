@@ -5,6 +5,7 @@
 Meng Lin mlin92119@gmail.com
 
 ## Deployed URL
+https://simple-form-one.vercel.app/
 
 ### `npm start`
 
